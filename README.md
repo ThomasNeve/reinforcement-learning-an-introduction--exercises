@@ -1,5 +1,7 @@
 # reinforcement-learning-an-introduction--exercises
 
+![text](./dyanmic_programming/figure_car_rental.png)
+
 ## Cartpole balancing 
 
 Open AI gym was used as simulation environment for balancing a cartpole.
