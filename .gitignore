@@ -2,3 +2,6 @@
 .vscode/settings.json
 .vscode/launch.json
 cartPole_balancing/.vscode/settings.json
+cartPole_balancing/test.py
+cartPole_balancing/models
+
